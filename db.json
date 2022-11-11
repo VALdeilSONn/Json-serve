@@ -1,0 +1,32 @@
+{
+    "produtos":[
+        {
+            "id":1,
+            "nome": "Dipirona",
+            "descricao": "Medicamento em tratamento de dores cronicas.",
+            "preco": 3.5,
+            "categoria_id": 1
+        },
+        {
+            "id":2,
+            "nome": "Dor Flex",
+            "descricao": "Medicamento em tratamento de dores musculares e de cabeca.",
+            "preco": 5.4,
+            "categoria_id": 1
+        },
+        {
+            "id":3,
+            "nome": "Diane-35",
+            "descricao": "Anticoncepcional para tratamento ormonais e preventico",
+            "preco": 37.83,
+            "categoria_id": 1
+        },
+        {
+            "id":4,
+            "nome": "Salompa",
+            "descricao": "Fita adesiva com alta potencia, alivia dores e contucoes.",
+            "preco": 3.5,
+            "categoria_id": 1
+        }     
+    ]
+}
