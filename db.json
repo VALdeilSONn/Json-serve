@@ -30,3 +30,69 @@
         }     
     ]
 }
+
+{
+        "Endereco Nossa drograria":[
+        {
+            "id":1,
+            "nome": "Nossa drograria",
+            "indereco": "Praça das Nações, 172 - Loja A - Bonsucesso, Rio de Janeiro - RJ, 21041-010",
+            "posicao no mapa": -22.86771338456007,
+            "categoria_id": 1
+        },
+        {
+            "id":2,
+            "nome": "Nossa drograria",
+            "indereco": "Av. Governador Leonel de Moura Brizola, 2401 - Gramacho, Duque de Caxias - RJ, 25035-008",
+            "posicao no mapa": -22.73969402683491,
+            "categoria_id": 1
+        },
+        {
+            "id":3,
+            "nome": "Nossa drograria",
+            "indereco": "Estr. Mirandela, 248 - Loja 248 - Centro, Nilópolis - RJ, 26520-332",
+            "posicao no mapa": -22.79734926959232,
+            "categoria_id": 1
+        },
+        {
+            "id":4,
+            "nome": "Nossa drograria",
+            "indereco": "Fita adesiva com alta potencia, alivia dores e contucoes.",
+            "posicao no mapa": -22.860635112486115,
+            "categoria_id": 1
+        }     
+    ]
+}
+
+{
+    "Gestores":[
+        {
+            "id":1,
+            "nome": "Daniele Smit",
+            "indereco": "Praça das Nações, 172 - Loja A - Bonsucesso, Rio de Janeiro - RJ, 21041-010",
+            "posicao no mapa": -22.86771338456007,
+            "categoria_id": 1
+        },
+        {
+            "id":2,
+            "nome": "Marcelo Porto",
+            "indereco": "Fita adesiva com alta potencia, alivia dores e contucoes.",
+            "posicao no mapa": -22.860635112486115,
+            "categoria_id": 1
+        },
+        {
+            "id":3,
+            "nome": "D'Giorge",
+            "indereco": "Estr. Mirandela, 248 - Loja 248 - Centro, Nilópolis - RJ, 26520-332",
+            "posicao no mapa": -22.79734926959232,
+            "categoria_id": 1
+        },
+        {
+            "id":4,
+            "nome": "Daniele Smit",
+            "indereco": "Av. Governador Leonel de Moura Brizola, 2401 - Gramacho, Duque de Caxias - RJ, 25035-008",
+            "posicao no mapa": -22.73969402683491,
+            "categoria_id": 1
+        }     
+    ]
+}
